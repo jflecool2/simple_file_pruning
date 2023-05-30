@@ -19,5 +19,8 @@ Please note, the Docker container needs to have sufficient permissions to delete
 All of this is published under the CC0 1.0 Universal licence.
 <http://creativecommons.org/publicdomain/zero/1.0/>
 
+## Links
+<https://hub.docker.com/r/jfgagnon2/simple_file_pruning>
+<https://github.com/jflecool2/simple_file_pruning>
 
 Enjoy!
